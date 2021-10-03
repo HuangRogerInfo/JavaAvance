@@ -1,5 +1,3 @@
-package fr.dauphine.javaavance.td1;
-
 public class Circle {
 	private final Point centre;
 	private final int radius;

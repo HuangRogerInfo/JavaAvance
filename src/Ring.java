@@ -1,5 +1,3 @@
-package fr.dauphine.javaavance.td1;
-
 public class Ring extends Circle {
 	private final int outer_r;
 	
